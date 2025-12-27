@@ -9,8 +9,6 @@
 
 *A full-featured desktop application for ordering food from top global franchises, built entirely with Java Swing.*
 
-[Report Bug](https://github.com/YOUR-USERNAME/hungry-heroes/issues) · [Request Feature](https://github.com/YOUR-USERNAME/hungry-heroes/issues)
-
 </div>
 
 ---
